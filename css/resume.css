@@ -1,0 +1,29 @@
+.BodyContainer{
+    display:flex;
+}
+.Education {
+    display: flex;
+    margin: 0px 0px 100px 200px;
+    height: 300px;
+}
+.line{
+    
+    border: 1px solid black;
+}
+.left {
+    margin: 0px 10px 0px 0px;
+    display: flex;
+    align-items: center;
+}
+.left h3{
+    font-size: 25px;
+}
+.right{
+    margin: 0px 0px 0px 10px;
+}
+.right p {
+    margin: 0px 0px 0px 92px;
+}
+.Body {
+    margin: 125px 0px 0px 90px;
+}

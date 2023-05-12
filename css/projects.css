@@ -1,0 +1,27 @@
+h1{
+    font-size: 50px;
+}
+.project1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img img{
+    height: 350px;
+    width: 400px;
+    border-radius: 15px;
+}
+img{
+    width: 25%;
+}
+.name{
+    font-size: 25px;
+    font-weight: bold;
+}
+.description{
+    margin: 5px;
+}
+.text{
+    width: 65%;
+    margin: 10px;
+}
